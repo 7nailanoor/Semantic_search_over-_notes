@@ -1,0 +1,74 @@
+[
+    {
+        "document_id": "5f0a3a0f-1b0b-46a5-962c-84563578f1e9",
+        "filename": "Expense_Tracker_Project_Report.pdf",
+        "filetype": "pdf",
+        "page": 1,
+        "chunk_id": 1,
+        "section": "Project Report: Expense Tracker Web App",
+        "text": "Project Report: Expense Tracker Web App"
+    },
+    {
+        "document_id": "5f0a3a0f-1b0b-46a5-962c-84563578f1e9",
+        "filename": "Expense_Tracker_Project_Report.pdf",
+        "filetype": "pdf",
+        "page": 1,
+        "chunk_id": 2,
+        "section": "1. Project Title: Expense Tracker Web Application",
+        "text": "1. Project Title: Expense Tracker Web Application"
+    },
+    {
+        "document_id": "5f0a3a0f-1b0b-46a5-962c-84563578f1e9",
+        "filename": "Expense_Tracker_Project_Report.pdf",
+        "filetype": "pdf",
+        "page": 1,
+        "chunk_id": 3,
+        "section": "2. Description: I developed a personal expense tracker web app using Python, Flask, MySQL,",
+        "text": "2. Description: I developed a personal expense tracker web app using Python, Flask, MySQL, HTML, CSS, and Bootstrap. The app helps users manage their expenses by allowing them to add, view, filter, and analyze daily spending. It includes a dashboard to view total spending and category-wise summaries."
+    },
+    {
+        "document_id": "5f0a3a0f-1b0b-46a5-962c-84563578f1e9",
+        "filename": "Expense_Tracker_Project_Report.pdf",
+        "filetype": "pdf",
+        "page": 1,
+        "chunk_id": 4,
+        "section": "3. Key Features: - Add new expenses (amount, date, category, and description) - View all expenses",
+        "text": "3. Key Features: - Add new expenses (amount, date, category, and description) - View all expenses with filters (by category, date, and sorting) - Dashboard with total, monthly, and category-wise summaries - Monthly budget limit per category - Data reset and delete functionality - Clean and user-friendly interface using Bootstrap"
+    },
+    {
+        "document_id": "5f0a3a0f-1b0b-46a5-962c-84563578f1e9",
+        "filename": "Expense_Tracker_Project_Report.pdf",
+        "filetype": "pdf",
+        "page": 1,
+        "chunk_id": 5,
+        "section": "4. Tools & Technologies Used: - Python with Flask (Backend) - MySQL (Database) - HTML, CSS,",
+        "text": "4. Tools & Technologies Used: - Python with Flask (Backend) - MySQL (Database) - HTML, CSS, Bootstrap (Frontend) - Jinja2 (Templating) - Chart.js (optional for graphs) - Visual Studio Code and MySQL Workbench"
+    },
+    {
+        "document_id": "5f0a3a0f-1b0b-46a5-962c-84563578f1e9",
+        "filename": "Expense_Tracker_Project_Report.pdf",
+        "filetype": "pdf",
+        "page": 1,
+        "chunk_id": 6,
+        "section": "General",
+        "text": "5. Learnings: - I learned how to create a full-stack web application with Flask. - I understood how to perform CRUD operations using MySQL and Flask. - Improved my knowledge of HTML/CSS design and form handling. - Learned how to structure Flask applications and templates."
+    },
+    {
+        "document_id": "5f0a3a0f-1b0b-46a5-962c-84563578f1e9",
+        "filename": "Expense_Tracker_Project_Report.pdf",
+        "filetype": "pdf",
+        "page": 1,
+        "chunk_id": 7,
+        "section": "6. Challenges Faced: - Connecting Flask with MySQL initially caused some errors. - Filtering and",
+        "text": "6. Challenges Faced: - Connecting Flask with MySQL initially caused some errors. - Filtering and sorting logic required careful testing. - UI needed redesign for better user experience. - Debugging Jinja2 template errors (e.g., duplicate blocks)"
+    },
+    {
+        "document_id": "5f0a3a0f-1b0b-46a5-962c-84563578f1e9",
+        "filename": "Expense_Tracker_Project_Report.pdf",
+        "filetype": "pdf",
+        "page": 1,
+        "chunk_id": 8,
+        "section": "General",
+        "text": "7. Conclusion: This project gave me practical experience in building a functional web application. It helped me understand how real-world apps manage and display data, how to structure backend code, and how to make the UI clean and responsive."
+    }
+]

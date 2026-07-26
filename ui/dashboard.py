@@ -1,54 +1,10 @@
-# """
-# Dashboard UI
 
-# Author: Naila Noor
-# Project: Semantic Search over Notes
-# """
-
-# from __future__ import annotations
-
-# import streamlit as st
-
-
-# class Dashboard:
-#     @staticmethod
-#     def show(
-#         total_documents: int,
-#         total_chunks: int,
-#         total_vectors: int,
-#     ) -> None:
-
-#         st.subheader("📊 Dashboard")
-
-#         col1, col2, col3 = st.columns(3)
-
-#         with col1:
-#             st.metric(
-#                 label="📄 Documents",
-#                 value=total_documents,
-#             )
-
-#         with col2:
-#             st.metric(
-#                 label="🧩 Chunks",
-#                 value=total_chunks,
-#             )
-
-#         with col3:
-#             st.metric(
-#                 label="🧠 Vectors",
-#                 value=total_vectors,
-#             )
-
-#         st.divider()
 
 """
 Dashboard UI Component
 
 Displays project statistics and analytics.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 import streamlit as st

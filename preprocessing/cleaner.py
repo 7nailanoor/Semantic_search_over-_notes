@@ -12,8 +12,6 @@ Features
 - Remove control characters
 - Normalize line endings
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from __future__ import annotations

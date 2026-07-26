@@ -7,8 +7,6 @@ Performs semantic search using:
 2. FAISS Vector Search
 3. Hybrid Result Ranking
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from __future__ import annotations

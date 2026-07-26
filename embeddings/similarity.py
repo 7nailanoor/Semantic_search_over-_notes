@@ -4,8 +4,6 @@ Similarity Utilities
 Provides helper functions to calculate similarity
 between embedding vectors.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from typing import List

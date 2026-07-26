@@ -3,8 +3,6 @@ Preprocessing Utilities
 
 Helper functions used during text preprocessing.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from __future__ import annotations

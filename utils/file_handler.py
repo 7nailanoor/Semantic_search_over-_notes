@@ -3,8 +3,6 @@ File Handler
 
 Handles saving, deleting and listing uploaded files.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from pathlib import Path

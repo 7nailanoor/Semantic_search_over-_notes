@@ -4,8 +4,6 @@ Base class for all document readers.
 Every reader (PDF, DOCX, TXT) inherits from this class so they all
 return data in the exact same format.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from abc import ABC, abstractmethod

@@ -2,9 +2,6 @@
 TXT Reader.
 
 Supports multiple encodings.
-
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 import logging

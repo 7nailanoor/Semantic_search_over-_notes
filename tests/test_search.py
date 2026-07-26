@@ -4,8 +4,6 @@ Unit Tests for Semantic Search
 Run:
     pytest tests/
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from unittest.mock import MagicMock

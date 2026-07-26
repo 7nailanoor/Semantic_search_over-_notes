@@ -4,8 +4,6 @@ Generate Embeddings
 Converts text chunks into embedding vectors using
 the Sentence Transformer model.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from typing import List, Dict, Any

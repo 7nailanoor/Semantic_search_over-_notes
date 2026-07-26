@@ -3,8 +3,6 @@ Metadata Store
 
 Stores and manages metadata for document chunks indexed in FAISS.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from __future__ import annotations

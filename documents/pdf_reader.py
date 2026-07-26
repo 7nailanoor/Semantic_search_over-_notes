@@ -5,9 +5,6 @@ Extracts:
 - Full document text
 - Page-wise text
 - PDF metadata
-
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 import logging

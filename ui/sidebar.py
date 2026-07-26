@@ -3,8 +3,6 @@ Sidebar
 
 Displays application information and statistics.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from __future__ import annotations

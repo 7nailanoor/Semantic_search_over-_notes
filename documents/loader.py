@@ -8,9 +8,6 @@ Supported Formats:
 - PDF
 - DOCX
 - TXT
-
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from __future__ import annotations

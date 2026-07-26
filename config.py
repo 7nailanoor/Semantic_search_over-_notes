@@ -10,8 +10,6 @@ Contains:
 - Supported file types
 - Application metadata
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from pathlib import Path

@@ -3,8 +3,6 @@ Semantic Search over Notes
 
 AI-powered semantic search across PDF, DOCX and TXT documents.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from __future__ import annotations

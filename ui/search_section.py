@@ -3,8 +3,6 @@ Search Section
 
 Displays the semantic search interface.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from __future__ import annotations

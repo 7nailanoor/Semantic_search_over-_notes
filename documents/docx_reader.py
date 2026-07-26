@@ -6,8 +6,6 @@ Extracts:
 - Paragraph-wise text
 - Document metadata
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 import logging

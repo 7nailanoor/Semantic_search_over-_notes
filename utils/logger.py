@@ -3,8 +3,6 @@ Logger Configuration
 
 Provides a reusable logger for the project.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from __future__ import annotations

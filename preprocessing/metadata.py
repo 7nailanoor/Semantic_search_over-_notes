@@ -4,8 +4,6 @@ Metadata Generator
 Creates metadata for document chunks to improve
 search results and UI display.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from __future__ import annotations

@@ -3,8 +3,6 @@ Helper Functions
 
 Common utility functions used throughout the project.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from __future__ import annotations

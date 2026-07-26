@@ -4,8 +4,6 @@ Timer Utility
 Measures execution time for indexing,
 embedding generation, and semantic search.
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 from __future__ import annotations

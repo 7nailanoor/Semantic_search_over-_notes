@@ -4,8 +4,6 @@ Unit Tests for Embedding Generation
 Run:
     pytest tests/
 
-Author: Naila Noor
-Project: Semantic Search over Notes
 """
 
 import pytest
